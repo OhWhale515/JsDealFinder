@@ -1,2 +1,2 @@
 # JsDealFinder
- A ebay deal finder for my room mate J lol
+ An ebay deal finder for my room mate J lol
